@@ -1,0 +1,65 @@
+#pane {
+    -fx-background-color: white;
+}
+
+#songLabel {
+    -fx-text-fill: #49FF00;
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-size: 64.0;
+}
+
+#songProgressBar {
+    -fx-padding: 10px;
+}
+
+.button {
+    -fx-font-size: 18.0;
+    -fx-padding: 5px 10px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#speedBox {
+    -fx-font-size: 17.0;
+    -fx-background-color: #639bc5;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
+#speedBox .list-cell {
+    -fx-background-color: #639bc5;
+    -fx-text-fill: white;
+}
+
+#speedBox .arrow {
+    -fx-background-color: white;
+}
+
+#volumeSlider {
+    -fx-padding: 0 10px;
+}
+
+#playButton {
+    -fx-margin: 0 5px;
+    -fx-background-color: #49FF00;
+}
+
+#pauseButton {
+    -fx-margin: 0 5px;
+    -fx-background-color: #f7e302;
+}
+
+#resetButton {
+    -fx-margin: 0 5px;
+    -fx-background-color: #c35810;
+}
+
+#previousButton {
+    -fx-margin: 0 5px;
+    -fx-background-color: #10daac;
+}
+
+#nextButton {
+    -fx-margin: 0 5px;
+    -fx-background-color: #10daac;
+}
